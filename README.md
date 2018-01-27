@@ -1,5 +1,5 @@
 # linux-c-test
-used to write socket programming under linux C 
+just make fun with linux programming.
 
 from 0201/2018 
 
